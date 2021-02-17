@@ -1,0 +1,12 @@
+// module.exports={
+// 	devServer:{
+// 		host:"localhost",
+// 		port:8080,
+// 		proxy:{
+// 			"/":{
+// 				target:"https://edutest11.oss-cn-beijing.aliyuncs.com",
+// 				changeOrigin:true,
+// 			}
+// 		}
+// 	}
+// }
